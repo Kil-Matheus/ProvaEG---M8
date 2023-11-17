@@ -1,1 +1,1 @@
-# ProvaEG---M8
+O código basicamente recebe um input feito pelo usuário, esse texto para por um filtro regex, que busca palavras específicas para fazer as suas buscas no programa. Após encontrar essa palavras, é feito uma comparação com as que já existe em uma biblioteca. Se der 'match', entre a palavra do texto com a chave, o programa pega o valor da chave e retorna para o usuário.
